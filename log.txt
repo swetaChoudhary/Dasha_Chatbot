@@ -1,0 +1,59 @@
+####################################################################################################
+ai: Welcome to postal service. How can I help you?
+ai: Do you hear me?
+[
+  {
+    "type": "Intent",
+    "skill": "sentiment",
+    "weight": -1,
+    "likelihood": -1,
+    "location": {
+      "start": 0,
+      "end": 0
+    },
+    "intent": null,
+    "state": "neutral",
+    "sentenceType": "statement"
+  },
+  {
+    "type": "Intent",
+    "skill": "d661834c2904ec577a5a4c359627b0bd:v2",
+    "weight": 0.50646,
+    "likelihood": 1,
+    "location": {
+      "start": -1,
+      "end": -1
+    },
+    "intent": "missed_delivery",
+    "state": "positive",
+    "sentenceType": "statement"
+  },
+  {
+    "type": "Intent",
+    "skill": "d661834c2904ec577a5a4c359627b0bd:v2",
+    "weight": 0.53667,
+    "likelihood": 1,
+    "location": {
+      "start": -1,
+      "end": -1
+    },
+    "intent": "track_parcel",
+    "state": "positive",
+    "sentenceType": "statement"
+  },
+  {
+    "type": "Intent",
+    "skill": "d661834c2904ec577a5a4c359627b0bd:v2",
+    "weight": 0.57259,
+    "likelihood": 1,
+    "location": {
+      "start": -1,
+      "end": -1
+    },
+    "intent": "return_shipment",
+    "state": "positive",
+    "sentenceType": "statement"
+  }
+]
+human: yes
+ai: Unfortunately, the parcel tracking function has not yet been implemented.

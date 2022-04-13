@@ -1,0 +1,171 @@
+{
+  "default": {
+    "voiceInfo": {
+      "emotion": "good",
+      "lang": "en",
+      "speaker": "alena"
+    },
+    "phrases": {
+      "greeting": [
+        {
+          "text": "You called the Post Office. How can I help you?"
+        }
+      ],
+      "track_parcel": [
+        {
+          "text": "Unfortunately, the parcel tracking function has not yet been implemented."
+        }
+      ],
+      "missed_delivery": [
+        {
+          "text": "Unfortunately, the function of overwriting the delivery of the parcel has not yet been implemented."
+        }
+      ],
+      "where_is_point": [
+        {
+          "text": "Sorry, this feature is not implemented."
+        }
+      ],
+      "return_shipment": [
+        {
+          "text": "Sorry, the cancel delivery feature has not yet been implemented."
+        }
+      ],
+      "i_will_call_back": [
+        {
+          "text": "Okay, I'll call you later. Bye!"
+        }
+      ],
+      "hello": {
+        "random": [
+          [
+            {
+              "text": "Hello"
+            }
+          ],
+          [
+            {
+              "text": "Hello?"
+            }
+          ],
+          [
+            {
+              "text": "Do you hear me?"
+            }
+          ]
+        ]
+      },
+      "when_callback": [
+        {
+          "text": "When can I call you back?"
+        }
+      ],
+      "i_said": [
+        {
+          "text": "I'm talking"
+        }
+      ],
+      "sorry_wont_call": [
+        {
+          "text": "Sorry for the trouble, all the best, goodbye"
+        }
+      ],
+      "i_will_wait": {
+        "random": [
+          [
+            {
+              "text": "Well I'm waiting for"
+            }
+          ],
+          [
+            {
+              "text": "Sure, I will wait"
+            }
+          ],
+          [
+            {
+              "text": "Ok. I'm waiting"
+            }
+          ]
+        ]
+      },
+      "i_can_hear_you": [
+        {
+          "text": "Yes. I can hear you."
+        }
+      ],
+      "dont_understand": {
+        "random": [
+          [
+            {
+              "text": "Sorry, can you repeat?"
+            }
+          ],
+          [
+            {
+              "text": "Sorry, something with the connection, can you repeat?"
+            }
+          ],
+          [
+            {
+              "text": "Sorry I didn't hear"
+            }
+          ],
+          [
+            {
+              "text": "Repeat please?"
+            }
+          ]
+        ]
+      },
+      "dont_understand_hangup": [
+        {
+          "text": "Something with the connection, it's hard to hear you. I'll call you back later, goodbye!"
+        }
+      ],
+      "dont_understand_forward": [
+        {
+          "text": "You know, I can't hear you very well. I will now switch you to another operator"
+        }
+      ],
+      "mhm": [
+        {
+          "text": "Yeah..."
+        }
+      ],
+      "yes_i_am_a_robot": [
+        {
+          "text": "Yes, I am a robot. I hope this will not affect our further dialogue."
+        }
+      ],
+      "is_that_all": [
+        {
+          "text": "It's all?"
+        }
+      ]
+    },
+    "types": {},
+    "macros": {
+      "track_parcel": {},
+      "missed_delivery": {},
+      "where_is_point": {},
+      "return_shipment": {},
+      "i_will_call_back": {},
+      "hello": {},
+      "when_callback": {},
+      "i_said": {},
+      "sorry_wont_call": {},
+      "i_will_wait": {},
+      "i_can_hear_you": {},
+      "dont_understand": {},
+      "dont_understand_hangup": {},
+      "dont_understand_forward": {},
+      "mhm": {},
+      "yes_i_am_a_robot": {},
+      "is_that_all": {},
+      "greeting": {},
+      "will_help": {},
+      "how_much": {}
+    }
+  }
+}

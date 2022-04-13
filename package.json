@@ -1,0 +1,17 @@
+{
+  "name": "dasha-first-app-non-us",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  },
+  "dependencies": {
+    "@dasha.ai/sdk": "^0.6.5"
+  }
+}
